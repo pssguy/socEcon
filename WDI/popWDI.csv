@@ -1,0 +1,9 @@
+description,indicator
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN
+Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS
+Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS
+GDP per capita (current US$),NY.GDP.PCAP.CD
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS

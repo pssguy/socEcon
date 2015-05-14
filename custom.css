@@ -1,0 +1,24 @@
+.title {
+color: green;
+font-size: 200%;
+}
+.post {
+color: red;
+}
+/* to hide but leaves space */
+.author {
+color: white;
+}
+.date {
+color: white;
+}
+
+.blogs {
+color: green;
+font-size: 80%;
+}
+
+tbody td.rt{ 
+    text-align: right;
+   
+} 
